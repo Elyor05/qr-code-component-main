@@ -1,11 +1,14 @@
 body {
     background-color: #D5E1EF;
     font-family: Outfit, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 main {
     width: 22vw;
-    margin: 9vh auto;
     padding: 16px 16px 40px 16px;
     background-color: #fff;
     border-radius: 20px;
