@@ -1,0 +1,8 @@
+@mixin normalize($font-size,$line-height,$color,$margin,) {
+  font-size: $font-size;
+  line-height: $line-height;
+  color: $color;
+  width: 88%;
+  margin: $margin;
+  text-align: center;
+}
